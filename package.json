@@ -2,6 +2,9 @@
   "dependencies": {
     "moment-timezone": "^0.5.45",
     "qrcode-terminal": "^0.12.0",
-    "whatsapp-web.js": "" 
+    "whatsapp-web.js": "^1.18.6"
+  },
+  "scripts": {
+    "start": "node chatbot.js"
   }
 }
